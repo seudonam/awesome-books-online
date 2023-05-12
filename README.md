@@ -43,7 +43,7 @@
 ### 🟤计算机应用技术
 | `APPLICATION` |
 | - |
-| [**Stanford CS229 Machine Learning Notes**](https://cs229.stanford.edu/) |
+| [**⭐Stanford CS229 Machine Learning Notes**](https://cs229.stanford.edu/) |
 | [**Cornell CS4780 Intro to Machine Learning Notes**](https://www.cs.cornell.edu/courses/cs4780/) |
 | [**Mathematics for Machine Learning**](https://mml-book.github.io/) |
 | [**Foundations of Machine Learning**](https://cs.nyu.edu/~mohri/mlbook/) |
