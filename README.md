@@ -1,4 +1,4 @@
-# great-books-online
+# awesome-books-online
 [![](https://img.shields.io/github/license/seudonam/great-books-online?color=blueviolet)](https://github.com/seudonam/great-books-online/blob/main/LICENSE)
 [![](https://img.shields.io/github/forks/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/stars/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
@@ -18,7 +18,7 @@
 | [**邓俊辉 C++ 数据结构**](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/) |
 | [**C++ Programming and Data Structures**](https://eecs280staff.github.io/notes/) |
 | [**⭐Princeton Algorithms 4th Edition**](https://algs4.cs.princeton.edu/home/) |
-| [**UIUC Algorithms by Erickson**](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
+| [**⭐UIUC Algorithms by Erickson**](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
 | [**⭐Structure and Interpretation of Computer Programs**](https://github.com/sarabander/sicp-pdf) |
 | [**Abstraction and Design In Computation**](https://book.cs51.io/) |
 | [**OCaml Programming: Correct + Efficient + Beautiful**](https://cs3110.github.io/textbook/cover) |
