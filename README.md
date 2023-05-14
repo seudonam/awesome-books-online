@@ -15,7 +15,7 @@
 ### 🔴计算机软件与理论
 | `THEORY` |
 | - |
-| [**邓俊辉 C++ 数据结构**](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/) |
+| [**清华大学 C++ 数据结构**](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/) |
 | [**C++ Programming and Data Structures**](https://eecs280staff.github.io/notes/) |
 | [**⭐Princeton Algorithms 4th Edition**](https://algs4.cs.princeton.edu/home/) |
 | [**⭐UIUC Algorithms by Erickson**](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
