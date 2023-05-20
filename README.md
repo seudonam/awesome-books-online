@@ -11,6 +11,7 @@
 | [**⭐Berkeley EECS Course Guides**](https://hkn.eecs.berkeley.edu/courseguides) |
 | [**⭐How to become a GOOD Theoretical Physicist**](https://www.goodtheorist.science/) |
 | [**⭐The Feynman Lectures on Physics**](https://www.feynmanlectures.caltech.edu/) |
+| [**Lectures on Theoretical Physics by David Tong**](https://www.damtp.cam.ac.uk/user/tong/teaching) |
 | [**Modern Semiconductor Devices for Integrated Circuits**](https://www.chu.berkeley.edu/modern-semiconductor-devices-for-integrated-circuits-chenming-calvin-hu-2010/) |
 ### 🔴计算机软件与理论
 | `THEORY` |
