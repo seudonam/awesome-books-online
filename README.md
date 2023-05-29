@@ -3,7 +3,7 @@
 [![](https://img.shields.io/github/forks/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/stars/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/repo-size/seudonam/great-books-online?color=red)](https://github.com/seudonam/great-books-online)
-[![](https://img.shields.io/github/last-commit/seudonam/great-books-online/main)](https://github.com/seudonam/great-books-online/commits/main)
+[![](https://img.shields.io/github/last-commit/seudonam/great-books-online)](https://github.com/seudonam/great-books-online/commits)
 ### 🟣THEORY OF EVERYTHING
 | `THEORY OF EVERYTHING` |
 | - |
