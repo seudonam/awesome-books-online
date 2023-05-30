@@ -67,6 +67,6 @@
 | [**⭐UIUC CS173 Discrete Structures Textbook**](https://mfleck.cs.illinois.edu/building-blocks) |
 | [**Mathematics for Computer Science**](https://courses.csail.mit.edu/6.042/spring18/) |
 | [**Probability for Computer Scientists**](https://chrispiech.github.io/probabilityForComputerScientists/en/) |
-| [**Probability in Electrical Engineering and Computer Science**](https://link.springer.com/book/10.1007/978-3-030-49995-2) |
+| [**Probability in Electrical Engineering and Computer Science**](https://www.springer.com/us/book/9783030499945) |
 | [**Introduction to Applied Linear Algebra**](https://web.stanford.edu/~boyd/vmls/) |
 | [**Convex Optimization by Boyd and Vandenberghe**](https://web.stanford.edu/~boyd/cvxbook/) |
