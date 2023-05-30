@@ -39,7 +39,7 @@
 | [**北京大学编译原理实验**](https://pku-minic.github.io/online-doc/) |
 | [**The Linux Command Line**](https://linuxcommand.org/) |
 | [**Linux From Scratch**](https://www.linuxfromscratch.org/) |
-| [**⭐Dive into Systems**](https://diveintosystems.org/) |
+| [**⭐Dive into Systems**](https://diveintosystems.org/book/) |
 | [**⭐Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/) |
 | [**⭐Crafting Interpreters**](https://craftinginterpreters.com/) |
 | [**Computer Networks: A Systems Approach**](https://book.systemsapproach.org/) |
