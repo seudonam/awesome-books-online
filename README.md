@@ -1,6 +1,5 @@
 ## awesome-books-online
 [![](https://img.shields.io/github/license/seudonam/great-books-online?color=blueviolet)](https://github.com/seudonam/great-books-online/blob/main/LICENSE)
-[![](https://img.shields.io/github/forks/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/stars/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/repo-size/seudonam/great-books-online?color=red)](https://github.com/seudonam/great-books-online)
 [![](https://img.shields.io/github/last-commit/seudonam/great-books-online)](https://github.com/seudonam/great-books-online/commits)
@@ -18,6 +17,7 @@
 | `THEORY` |
 | - |
 | [**清华大学 C++ 数据结构**](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/) |
+| [**Open Data Structures**⭐](https://opendatastructures.org/) |
 | [**C++ Programming and Data Structures**⭐](https://eecs280staff.github.io/notes/) |
 | [**Princeton Algorithms 4th Edition**⭐](https://algs4.cs.princeton.edu/home/) |
 | [**UIUC Algorithms by Erickson**⭐](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
