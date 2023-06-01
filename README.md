@@ -7,21 +7,21 @@
 ### 🟣THEORY OF EVERYTHING
 | `THEORY OF EVERYTHING` |
 | - |
-| [**⭐Teach Yourself Computer Science**](https://teachyourselfcs.com/) |
-| [**⭐Berkeley EECS Course Guides**](https://hkn.eecs.berkeley.edu/courseguides) |
-| [**⭐How to become a GOOD Theoretical Physicist**](https://www.goodtheorist.science/) |
-| [**⭐The Feynman Lectures on Physics**](https://www.feynmanlectures.caltech.edu/) |
-| [**⭐The Theoretical Minimum**](https://theoreticalminimum.com/) |
+| [**Teach Yourself Computer Science**⭐](https://teachyourselfcs.com/) |
+| [**Berkeley EECS Course Guides**⭐](https://hkn.eecs.berkeley.edu/courseguides) |
+| [**How to become a GOOD Theoretical Physicist**](https://www.goodtheorist.science/) |
+| [**The Feynman Lectures on Physics**⭐](https://www.feynmanlectures.caltech.edu/) |
+| [**The Theoretical Minimum**⭐](https://theoreticalminimum.com/) |
 | [**Lectures on Theoretical Physics by David Tong**](https://www.damtp.cam.ac.uk/user/tong/teaching) |
 | [**Modern Semiconductor Devices for Integrated Circuits**](https://www.chu.berkeley.edu/modern-semiconductor-devices-for-integrated-circuits-chenming-calvin-hu-2010/) |
 ### 🔴计算机软件与理论
 | `THEORY` |
 | - |
 | [**清华大学 C++ 数据结构**](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/) |
-| [**C++ Programming and Data Structures**](https://eecs280staff.github.io/notes/) |
-| [**⭐Princeton Algorithms 4th Edition**](https://algs4.cs.princeton.edu/home/) |
-| [**⭐UIUC Algorithms by Erickson**](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
-| [**⭐Structure and Interpretation of Computer Programs**](https://github.com/sarabander/sicp-pdf) |
+| [**C++ Programming and Data Structures**⭐](https://eecs280staff.github.io/notes/) |
+| [**Princeton Algorithms 4th Edition**⭐](https://algs4.cs.princeton.edu/home/) |
+| [**UIUC Algorithms by Erickson**⭐](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
+| [**Structure and Interpretation of Computer Programs**](https://github.com/sarabander/sicp-pdf) |
 | [**Abstraction and Design In Computation**](https://book.cs51.io/) |
 | [**OCaml Programming: Correct + Efficient + Beautiful**](https://cs3110.github.io/textbook/cover) |
 | [**Programming Language Principles and Paradigms**](https://eecs390.github.io/notes/) |
@@ -39,15 +39,15 @@
 | [**北京大学编译原理实验**](https://pku-minic.github.io/online-doc/) |
 | [**The Linux Command Line**](https://linuxcommand.org/) |
 | [**Linux From Scratch**](https://www.linuxfromscratch.org/) |
-| [**⭐Dive into Systems**](https://diveintosystems.org/book/) |
-| [**⭐Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/) |
-| [**⭐Crafting Interpreters**](https://craftinginterpreters.com/) |
+| [**Dive into Systems**⭐](https://diveintosystems.org/book/) |
+| [**Operating Systems: Three Easy Pieces**⭐](https://pages.cs.wisc.edu/~remzi/OSTEP/) |
+| [**Crafting Interpreters**⭐](https://craftinginterpreters.com/) |
 | [**Computer Networks: A Systems Approach**](https://book.systemsapproach.org/) |
 | [**Distributed Systems 4th Edition**](https://www.distributed-systems.net/) |
 ### 🟤计算机应用技术
 | `APPLICATION` |
 | - |
-| [**⭐Stanford CS229 Machine Learning Notes**](https://cs229.stanford.edu/) |
+| [**Stanford CS229 Machine Learning Notes**⭐](https://cs229.stanford.edu/) |
 | [**Cornell CS4780 Intro to Machine Learning Notes**](https://www.cs.cornell.edu/courses/cs4780/) |
 | [**Mathematics for Machine Learning**](https://mml-book.github.io/) |
 | [**Foundations of Machine Learning**](https://cs.nyu.edu/~mohri/mlbook/) |
@@ -57,15 +57,15 @@
 | [**The Elements of Statistical Learning**](https://hastie.su.domains/ElemStatLearn/) |
 | [**Probabilistic Machine Learning**](https://probml.github.io/pml-book/) |
 | [**Deep Learning by Goodfellow Bengio Courville**](https://www.deeplearningbook.org/) |
-| [**Dive into Deep Learning**](https://d2l.ai/) |
+| [**Dive into Deep Learning**⭐](https://d2l.ai/) |
 | [**Practical Deep Learning for Coders**](https://course.fast.ai/) |
 | [**UMich EECS485 Web Systems Projects**](https://eecs485.org/syllabus) |
 | [**Python for Data Analysis 3rd Edition**](https://wesmckinney.com/book/)
 ### ⚪数学
 | `MATH` |
 | - |
-| [**⭐UIUC CS173 Discrete Structures Textbook**](https://mfleck.cs.illinois.edu/building-blocks) |
-| [**Mathematics for Computer Science**](https://courses.csail.mit.edu/6.042/spring18/) |
+| [**UIUC CS173 Discrete Structures Textbook**⭐](https://mfleck.cs.illinois.edu/building-blocks) |
+| [**Mathematics for Computer Science**⭐](https://courses.csail.mit.edu/6.042/spring18/) |
 | [**Probability for Computer Scientists**](https://chrispiech.github.io/probabilityForComputerScientists/en/) |
 | [**Probability in Electrical Engineering and Computer Science**](https://www.springer.com/us/book/9783030499945) |
 | [**Introduction to Applied Linear Algebra**](https://web.stanford.edu/~boyd/vmls/) |
