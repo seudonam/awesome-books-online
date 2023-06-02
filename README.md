@@ -38,7 +38,7 @@
 | [**清华大学操作系统实验**](https://github.com/LearningOS) |
 | [**北京大学编译原理实验**](https://pku-minic.github.io/online-doc/) |
 | [**The Linux Command Line**](https://linuxcommand.org/) |
-| [**Linux From Scratch**](https://www.linuxfromscratch.org/) |
+| [**Linux From Scratch**⭐](https://www.linuxfromscratch.org/) |
 | [**Dive into Systems**⭐](https://diveintosystems.org/book/) |
 | [**Operating Systems: Three Easy Pieces**⭐](https://pages.cs.wisc.edu/~remzi/OSTEP/) |
 | [**Crafting Interpreters**⭐](https://craftinginterpreters.com/) |
@@ -60,7 +60,7 @@
 | [**Dive into Deep Learning**⭐](https://d2l.ai/) |
 | [**Practical Deep Learning for Coders**](https://course.fast.ai/) |
 | [**UMich EECS485 Web Systems Projects**](https://eecs485.org/syllabus) |
-| [**Python for Data Analysis 3rd Edition**](https://wesmckinney.com/book/)
+| [**Python for Data Analysis 3rd Edition**](https://wesmckinney.com/book/) |
 ### ⚪数学
 | `MATH` |
 | - |
