@@ -8,9 +8,10 @@
 | - |
 | [**Teach Yourself Computer Science**⭐](https://teachyourselfcs.com/) |
 | [**Berkeley EECS Course Guides**⭐](https://hkn.eecs.berkeley.edu/courseguides) |
-| [**How to become a GOOD Theoretical Physicist**](https://www.goodtheorist.science/) |
-| [**The Feynman Lectures on Physics**⭐](https://www.feynmanlectures.caltech.edu/) |
+| [**MIT Open Learning Library**⭐](https://openlearning.mit.edu/courses-programs/open-learning-library) |
 | [**The Theoretical Minimum**⭐](https://theoreticalminimum.com/) |
+| [**The Feynman Lectures on Physics**⭐](https://www.feynmanlectures.caltech.edu/) |
+| [**How to become a GOOD Theoretical Physicist**](https://www.goodtheorist.science/) |
 | [**Lectures on Theoretical Physics by David Tong**](https://www.damtp.cam.ac.uk/user/tong/teaching) |
 | [**Modern Semiconductor Devices for Integrated Circuits**](https://www.chu.berkeley.edu/modern-semiconductor-devices-for-integrated-circuits-chenming-calvin-hu-2010/) |
 ### 🔴计算机软件与理论
@@ -52,12 +53,12 @@
 | [**Mathematics for Machine Learning**](https://mml-book.github.io/) |
 | [**Foundations of Machine Learning**](https://cs.nyu.edu/~mohri/mlbook/) |
 | [**Understanding Machine Learning: From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
-| [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) |
-| [**An Introduction to Statistical Learning**](https://www.statlearning.com/) |
-| [**The Elements of Statistical Learning**](https://hastie.su.domains/ElemStatLearn/) |
+| [**Pattern Recognition and Machine Learning**⭐](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) |
+| [**An Introduction to Statistical Learning**⭐](https://www.statlearning.com/) |
+| [**The Elements of Statistical Learning**⭐](https://hastie.su.domains/ElemStatLearn/) |
 | [**Probabilistic Machine Learning**](https://probml.github.io/pml-book/) |
 | [**Deep Learning by Goodfellow Bengio Courville**](https://www.deeplearningbook.org/) |
-| [**Dive into Deep Learning**⭐](https://d2l.ai/) |
+| [**Dive into Deep Learning**](https://d2l.ai/) |
 | [**Practical Deep Learning for Coders**](https://course.fast.ai/) |
 | [**UMich EECS485 Web Systems Projects**](https://eecs485.org/syllabus) |
 | [**Python for Data Analysis 3rd Edition**](https://wesmckinney.com/book/) |
