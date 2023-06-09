@@ -11,8 +11,8 @@
 | [**MIT Open Learning Library**⭐](https://openlearning.mit.edu/courses-programs/open-learning-library) |
 | [**The Theoretical Minimum**⭐](https://theoreticalminimum.com/) |
 | [**The Feynman Lectures on Physics**⭐](https://www.feynmanlectures.caltech.edu/) |
+| [**Lectures on Theoretical Physics by David Tong**⭐](https://www.damtp.cam.ac.uk/user/tong/teaching) |
 | [**How to become a GOOD Theoretical Physicist**](https://www.goodtheorist.science/) |
-| [**Lectures on Theoretical Physics by David Tong**](https://www.damtp.cam.ac.uk/user/tong/teaching) |
 | [**Modern Semiconductor Devices for Integrated Circuits**](https://www.chu.berkeley.edu/modern-semiconductor-devices-for-integrated-circuits-chenming-calvin-hu-2010/) |
 ### 🔴计算机软件与理论
 | `THEORY` |
@@ -35,7 +35,7 @@
 | - |
 | [**一生一芯**](https://ysyx.oscc.cc/) |
 | [**南京大学计算机系统基础实验**](https://nju-projectn.github.io/ics-pa-gitbook/) |
-| [**清华大学操作系统实验**](https://github.com/LearningOS) |
+| [**清华大学操作系统实验**⭐](https://github.com/LearningOS) |
 | [**北京大学编译原理实验**](https://pku-minic.github.io/online-doc/) |
 | [**The Linux Command Line**](https://linuxcommand.org/) |
 | [**Linux From Scratch**⭐](https://www.linuxfromscratch.org/) |
