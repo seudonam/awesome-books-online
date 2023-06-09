@@ -35,7 +35,6 @@
 | - |
 | [**一生一芯**](https://ysyx.oscc.cc/) |
 | [**南京大学计算机系统基础实验**](https://nju-projectn.github.io/ics-pa-gitbook/) |
-| [**南京大学数字逻辑与计算机组成实验**](https://nju-projectn.github.io/dlco-lecture-note/) |
 | [**清华大学操作系统实验**](https://github.com/LearningOS) |
 | [**北京大学编译原理实验**](https://pku-minic.github.io/online-doc/) |
 | [**The Linux Command Line**](https://linuxcommand.org/) |
@@ -53,10 +52,10 @@
 | [**Mathematics for Machine Learning**](https://mml-book.github.io/) |
 | [**Foundations of Machine Learning**](https://cs.nyu.edu/~mohri/mlbook/) |
 | [**Understanding Machine Learning: From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
-| [**Pattern Recognition and Machine Learning**⭐](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) |
+| [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) |
 | [**An Introduction to Statistical Learning**⭐](https://www.statlearning.com/) |
 | [**The Elements of Statistical Learning**⭐](https://hastie.su.domains/ElemStatLearn/) |
-| [**Probabilistic Machine Learning**](https://probml.github.io/pml-book/) |
+| [**Probabilistic Machine Learning**⭐](https://probml.github.io/pml-book/) |
 | [**Deep Learning by Goodfellow Bengio Courville**](https://www.deeplearningbook.org/) |
 | [**Dive into Deep Learning**](https://d2l.ai/) |
 | [**Practical Deep Learning for Coders**](https://course.fast.ai/) |
