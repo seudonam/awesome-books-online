@@ -19,14 +19,14 @@
 | - |
 | [**清华大学 C++ 数据结构**](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/) |
 | [**Open Data Structures**⭐](https://opendatastructures.org/) |
-| [**C++ Programming and Data Structures**⭐](https://eecs280staff.github.io/notes/) |
+| [**UMich EECS280 C++ Programming and Data Structures**⭐](https://eecs280staff.github.io/notes/) |
 | [**Princeton Algorithms 4th Edition**⭐](https://algs4.cs.princeton.edu/home/) |
 | [**UIUC Algorithms by Erickson**⭐](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
 | [**Structure and Interpretation of Computer Programs**](https://github.com/sarabander/sicp-pdf) |
 | [**Abstraction and Design In Computation**](https://book.cs51.io/) |
 | [**OCaml Programming: Correct + Efficient + Beautiful**](https://cs3110.github.io/textbook/cover) |
-| [**Programming Language Principles and Paradigms**](https://eecs390.github.io/notes/) |
 | [**UMich EECS376 Foundations of Computer Science Notes**](https://eecs376.github.io/notes/) |
+| [**UMich EECS390 Programming Language Principles and Paradigms**](https://eecs390.github.io/notes/) |
 | [**Introduction to Theoretical Computer Science**](https://introtcs.org/) |
 | [**Engineering Software as a Service**](https://saasbook.info/) |
 | [**Software Foundations**](https://softwarefoundations.cis.upenn.edu/) |
