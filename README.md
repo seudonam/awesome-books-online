@@ -1,11 +1,11 @@
 ## awesome-books-online
-[![](https://img.shields.io/github/license/seudonam/great-books-online?color=blueviolet)](https://github.com/seudonam/great-books-online/blob/main/LICENSE)
-[![](https://img.shields.io/github/stars/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
-[![](https://img.shields.io/github/repo-size/seudonam/great-books-online?color=red)](https://github.com/seudonam/great-books-online)
-[![](https://img.shields.io/github/last-commit/seudonam/great-books-online)](https://github.com/seudonam/great-books-online/commits)
+[![](https://img.shields.io/github/license/seudonam/awesome-books-online?color=blueviolet)](https://github.com/seudonam/awesome-books-online/blob/main/LICENSE)
+[![](https://img.shields.io/github/stars/seudonam/awesome-books-online)](https://github.com/seudonam/awesome-books-online)
+[![](https://img.shields.io/github/repo-size/seudonam/awesome-books-online?color=red)](https://github.com/seudonam/awesome-books-online)
+[![](https://img.shields.io/github/last-commit/seudonam/awesome-books-online)](https://github.com/seudonam/awesome-books-online/commits)
 ### 🟣THEORY OF EVERYTHING
-| `THEORY OF EVERYTHING` |
-| - |
+|`THEORY OF EVERYTHING`|
+|-|
 | [**Teach Yourself Computer Science**⭐](https://teachyourselfcs.com/) |
 | [**Berkeley EECS Course Guides**⭐](https://hkn.eecs.berkeley.edu/courseguides) |
 | [**MIT Open Learning Library**⭐](https://openlearning.mit.edu/courses-programs/open-learning-library) |
@@ -15,8 +15,8 @@
 | [**How to become a GOOD Theoretical Physicist**](https://www.goodtheorist.science/) |
 | [**Modern Semiconductor Devices for Integrated Circuits**](https://www.chu.berkeley.edu/modern-semiconductor-devices-for-integrated-circuits-chenming-calvin-hu-2010/) |
 ### 🔴计算机软件与理论
-| `THEORY` |
-| - |
+|`THEORY`|
+|-|
 | [**清华大学 C++ 数据结构**](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/) |
 | [**Open Data Structures**⭐](https://opendatastructures.org/) |
 | [**UMich EECS280 C++ Programming and Data Structures**⭐](https://eecs280staff.github.io/notes/) |
@@ -31,8 +31,8 @@
 | [**Engineering Software as a Service**](https://saasbook.info/) |
 | [**Software Foundations**](https://softwarefoundations.cis.upenn.edu/) |
 ### 🔵计算机系统结构
-| `SYSTEM` |
-| - |
+|`SYSTEM`|
+|-|
 | [**一生一芯**](https://ysyx.oscc.cc/) |
 | [**南京大学计算机系统基础实验**](https://nju-projectn.github.io/ics-pa-gitbook/) |
 | [**清华大学操作系统实验**⭐](https://github.com/LearningOS) |
@@ -45,8 +45,8 @@
 | [**Computer Networks: A Systems Approach**](https://book.systemsapproach.org/) |
 | [**Distributed Systems 4th Edition**](https://www.distributed-systems.net/) |
 ### 🟤计算机应用技术
-| `APPLICATION` |
-| - |
+|`APPLICATION`|
+|-|
 | [**Stanford CS229 Machine Learning Notes**⭐](https://cs229.stanford.edu/) |
 | [**Cornell CS4780 Intro to Machine Learning Notes**](https://www.cs.cornell.edu/courses/cs4780/) |
 | [**Mathematics for Machine Learning**](https://mml-book.github.io/) |
@@ -62,8 +62,8 @@
 | [**UMich EECS485 Web Systems Projects**](https://eecs485.org/syllabus) |
 | [**Python for Data Analysis 3rd Edition**](https://wesmckinney.com/book/) |
 ### ⚪数学
-| `MATH` |
-| - |
+|`MATH`|
+|-|
 | [**UIUC CS173 Discrete Structures Textbook**⭐](https://mfleck.cs.illinois.edu/building-blocks) |
 | [**Mathematics for Computer Science**⭐](https://courses.csail.mit.edu/6.042/spring18/) |
 | [**Probability for Computer Scientists**](https://chrispiech.github.io/probabilityForComputerScientists/en/) |
