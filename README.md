@@ -11,21 +11,20 @@
 | [**The Theoretical Minimum**⭐](https://theoreticalminimum.com/) |
 | [**The Feynman Lectures on Physics**⭐](https://www.feynmanlectures.caltech.edu/) |
 | [**Lectures on Theoretical Physics by David Tong**⭐](https://www.damtp.cam.ac.uk/user/tong/teaching) |
-| [**How to become a GOOD Theoretical Physicist**](https://www.goodtheorist.science/) |
 | [**Modern Semiconductor Devices for Integrated Circuits**](https://www.chu.berkeley.edu/modern-semiconductor-devices-for-integrated-circuits-chenming-calvin-hu-2010/) |
 ### 🔴计算机软件与理论
 |`THEORY`|
 |-|
 | [**清华大学 C++ 数据结构**](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/) |
 | [**Open Data Structures**⭐](https://opendatastructures.org/) |
-| [**UMich EECS280 C++ Programming and Data Structures**⭐](https://eecs280staff.github.io/notes/) |
+| [**UMich EECS280 C++ Programming and Data Structures Notes**⭐](https://eecs280staff.github.io/notes/) |
 | [**Princeton Algorithms 4th Edition**⭐](https://algs4.cs.princeton.edu/home/) |
 | [**UIUC Algorithms by Erickson**⭐](https://jeffe.cs.illinois.edu/teaching/algorithms/) |
 | [**Structure and Interpretation of Computer Programs**](https://github.com/sarabander/sicp-pdf) |
 | [**Abstraction and Design In Computation**](https://book.cs51.io/) |
 | [**OCaml Programming: Correct + Efficient + Beautiful**](https://cs3110.github.io/textbook/cover) |
 | [**UMich EECS376 Foundations of Computer Science Notes**](https://eecs376.github.io/notes/) |
-| [**UMich EECS390 Programming Language Principles and Paradigms**](https://eecs390.github.io/notes/) |
+| [**UMich EECS390 Programming Language Principles and Paradigms Notes**](https://eecs390.github.io/notes/) |
 | [**Introduction to Theoretical Computer Science**](https://introtcs.org/) |
 | [**Engineering Software as a Service**](https://saasbook.info/) |
 | [**Software Foundations**](https://softwarefoundations.cis.upenn.edu/) |
@@ -50,11 +49,11 @@
 | [**Cornell CS4780 Intro to Machine Learning Notes**](https://www.cs.cornell.edu/courses/cs4780/) |
 | [**Mathematics for Machine Learning**](https://mml-book.github.io/) |
 | [**Foundations of Machine Learning**](https://cs.nyu.edu/~mohri/mlbook/) |
-| [**Understanding Machine Learning: From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
+| [**Understanding Machine Learning From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
 | [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) |
 | [**An Introduction to Statistical Learning**⭐](https://www.statlearning.com/) |
 | [**The Elements of Statistical Learning**⭐](https://hastie.su.domains/ElemStatLearn/) |
-| [**Probabilistic Machine Learning**⭐](https://probml.github.io/pml-book/) |
+| [**Probabilistic Machine Learning by Kevin Murphy**⭐](https://probml.github.io/pml-book/) |
 | [**Deep Learning by Goodfellow Bengio Courville**](https://www.deeplearningbook.org/) |
 | [**Dive into Deep Learning**](https://d2l.ai/) |
 | [**Practical Deep Learning for Coders**](https://course.fast.ai/) |
