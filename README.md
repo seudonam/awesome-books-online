@@ -1,7 +1,7 @@
 ## awesome-books-online
 [![](https://img.shields.io/github/license/seudonam/awesome-books-online?color=blueviolet)](https://github.com/seudonam/awesome-books-online/blob/main/LICENSE)
 [![](https://img.shields.io/github/stars/seudonam/awesome-books-online)](https://github.com/seudonam/awesome-books-online)
-[![](https://img.shields.io/github/last-commit/seudonam/awesome-books-online?color=red)](https://github.com/seudonam/awesome-books-online/commits)
+[![](https://img.shields.io/github/last-commit/seudonam/awesome-books-online?color=red)](https://github.com/seudonam/awesome-books-online/commits/main)
 ### 🟣THEORY OF EVERYTHING
 |`THEORY OF EVERYTHING`|
 |-|
@@ -27,6 +27,7 @@
 | [**UMich EECS390 Programming Language Principles and Paradigms Notes**](https://eecs390.github.io/notes/) |
 | [**Introduction to Theoretical Computer Science**](https://introtcs.org/) |
 | [**Engineering Software as a Service**](https://saasbook.info/) |
+| [**The Joy of Cryptography**](https://joyofcryptography.com/) |
 | [**Software Foundations**](https://softwarefoundations.cis.upenn.edu/) |
 ### 🔵计算机系统结构
 |`SYSTEM`|
