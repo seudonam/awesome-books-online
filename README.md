@@ -1,7 +1,7 @@
 ## awesome-books-online
 [![](https://img.shields.io/github/license/seudonam/awesome-books-online?color=blueviolet)](https://github.com/seudonam/awesome-books-online/blob/main/LICENSE)
 [![](https://img.shields.io/github/stars/seudonam/awesome-books-online)](https://github.com/seudonam/awesome-books-online)
-[![](https://img.shields.io/github/last-commit/seudonam/awesome-books-online?color=red)](https://github.com/seudonam/awesome-books-online/commits/main)
+[![](https://img.shields.io/github/last-commit/seudonam/awesome-books-online?color=red)](https://github.com/seudonam/awesome-books-online)
 ### 🟣THEORY OF EVERYTHING
 |`THEORY OF EVERYTHING`|
 |-|
@@ -50,7 +50,7 @@
 | [**Cornell CS4780 Intro to Machine Learning Notes**](https://www.cs.cornell.edu/courses/cs4780/) |
 | [**Mathematics for Machine Learning**](https://mml-book.github.io/) |
 | [**Foundations of Machine Learning**](https://cs.nyu.edu/~mohri/mlbook/) |
-| [**Understanding Machine Learning From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
+| [**Understanding Machine Learning: From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
 | [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) |
 | [**An Introduction to Statistical Learning**⭐](https://www.statlearning.com/) |
 | [**The Elements of Statistical Learning**⭐](https://hastie.su.domains/ElemStatLearn/) |
